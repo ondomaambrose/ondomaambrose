@@ -11,7 +11,7 @@ Computer Science student at Covenant University.
 
 ### About me
 
-I'm a full stack developer currently strongest on the frontend, but comfortable across the
+I'm a full stack developer currently strongest on the frontend in  react and typescript, but comfortable across the
 stack — from building interactive UIs to shipping the APIs that power them. I've studied
 design principles alongside computer science, so I care as much about *why* an interface
 looks the way it does as I do about the code behind it.
@@ -46,14 +46,12 @@ data, and shipped as a real feature.
 **Backend & Desktop**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
 
 **AI Systems**
 
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Tools**
 
